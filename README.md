@@ -11,3 +11,4 @@ _**entäs tämä sitten**_
 
 #LUETÄMÄ
 **jaassoo**
+[tästä näet kaavion] (https://github.com/niklasad/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
