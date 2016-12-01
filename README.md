@@ -6,3 +6,5 @@ _**entäs tämä sitten**_
 
 #osa 2: ei siitä sen
 >*ei oo mun juttu*
+## Tärkeä linkki!
+[Käyttöohjeet täällä](https://github.com/niklasad/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
