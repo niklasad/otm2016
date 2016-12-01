@@ -8,3 +8,6 @@ _**entäs tämä sitten**_
 >*ei oo mun juttu*
 ## Tärkeä linkki!
 [Käyttöohjeet täällä](https://github.com/niklasad/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
+
+#LUETÄMÄ
+**jaassoo**
